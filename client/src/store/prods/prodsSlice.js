@@ -18,7 +18,6 @@ const prodsSlice = createSlice({
 
       // GetAll
       .addCase(GetAll.fulfilled, (state, action) => {
-        console.log(action.payload);
         state.data = action.payload;
         state.loading = false;
       })
