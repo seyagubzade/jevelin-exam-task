@@ -1,0 +1,16 @@
+.socials{
+    padding: 100px 0;
+    background: #7D1EFF;
+    color: #eeeeee;
+    text-align: center;
+    ul{
+        li{
+            display: inline-block;
+            i{
+                color: inherit;
+                padding: 0 12px;
+                font-size: 32px;
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+.features {
+  padding: 90px 0;
+
+  .section-header {
+    h4 {
+      color: #aca3ba;
+      font-size: 1rem;
+      font-weight: 900;
+    }
+    h2 {
+      color: #3f3849;
+      font-size: 3.5rem;
+      font-weight: 900;
+    }
+  }
+  .feature-card {
+    margin-top: 50px;
+    .feature-icon {
+      width: 60px;
+      display: flex;
+      align-items: flex-start;
+      i {
+        font-size: 28px;
+        color: #9C54FF;
+      }
+    }
+    .card-content{
+        h3{
+            color: #3f3849;
+            font-size: 1.2rem;
+            font-weight: 900;
+        }
+        p{
+            color: #aca3ba;
+            width: 80%;
+        }
+    }
+  }
+}

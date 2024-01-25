@@ -1,0 +1,26 @@
+.video-intro {
+    padding: 160px 0;
+    background:  url("https://jevelin.shufflehound.com/single-product/wp-content/uploads/sites/29/2018/03/Ellipse-974-copy-22-2.jpg?id=599");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  .section-header {
+    h4 {
+      color: #aca3ba;
+      font-size: 1rem;
+      font-weight: 900;
+    }
+    h2 {
+      color: #3f3849;
+      font-size: 3.5rem;
+      font-weight: 900;
+    }
+    p{
+        color: #aca3ba;
+        font-size: 1.5rem;
+        font-weight: 400;
+        width: 60%;
+    }
+  }
+}
